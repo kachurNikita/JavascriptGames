@@ -3,8 +3,8 @@ const questionDisplay = document.getElementById("questionDisplay");
 
 const questions = [
     {
-        quiz: ["apple", "banana", "choklate"],
-        options: ['shit', 'makDonalds'],
+        quiz: ["apple", "banana", "strowbery"],
+        options: ['potato', 'cherry'],
         correct: 2
     },
     {
@@ -14,7 +14,7 @@ const questions = [
     },
     {
         quiz: ["apple", 'nokia', "samsung"],
-        options: ["sony", "xbox"],
+        options: ["sony", "wii"],
         correct: 1
     },
 ];
